@@ -1,9 +1,9 @@
 import website from '../assets/website.png'
 import instagram from '../assets/instagram.png'
-import appstore from '../assets/IMG_20201124_112759.png'
+//import appstore from '../assets/IMG_20201124_112759.png'
 import youtube from '../assets/images (3).jpeg'
-import dribbble from '../assets/dribbble.png'
-import github from '../assets/github.png'
+//import dribbble from '../assets/dribbble.png'
+//import github from '../assets/github.png'
 import telegram from '../assets/IMG_20201124_104554.png'
 
 const items = [{
