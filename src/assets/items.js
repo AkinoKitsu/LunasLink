@@ -8,41 +8,41 @@ import telegram from '../assets/IMG_20201124_104554.png'
 
 const items = [{
     "title": "Website",
-    "subtitle": "Look at my work!",
+    "subtitle": "I'll make an updated webisite soon™",
     "image": website,
     "link": "#"
 },
-{
-    "title": "GitHub",
-    "subtitle": "@devgossips | 🏠 of my open-source projects",
-    "image": github,
-    "link": "https://github.com/devgossips"
-},
+//{
+//    "title": "GitHub",
+//    "subtitle": "@devgossips | 🏠 of my open-source projects",
+//    "image": github,
+//    "link": "https://github.com/devgossips"
+//},
 {
     "title": "Instagram",
-    "subtitle": "@virtuonic100 | Hub of my awesome 😎pics",
+    "subtitle": "@forearms_international | Forearms. All day, every day.",
     "image": instagram,
-    "link": "https://instagram.com/virtuonic100"
+    "link": "https://instagram.com/forearms_international"
 },
-{
-    "title": "Apps",
-    "subtitle": "Hub of my awesome🔥 Apps",
-    "image": appstore,
-    "link": "#"
-},
+//{
+//    "title": "Apps",
+//    "subtitle": "Hub of my awesome🔥 Apps",
+//    "image": appstore,
+//    "link": "#"
+//},
 {
     "title": "YouTube",
-    "subtitle": "@Sagnik Sahoo | Official channel of mine",
+    "subtitle": "BasedShark | Really garbage YT vids and bad gaming clips.",
     "image": youtube,
-    "link": "https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg"
+    "link": "https://www.youtube.com/channel/UCuKAOU_gRsTfLXYE7td5zlg"
 },
 
-{
-    "title": "Dribbble",
-    "subtitle": "@virtuonic | Hub to the Shots of my 😎 apps ",
-    "image": dribbble,
-    "link": "https://dribbble.com/virtuonic"
-},
+//{
+//    "title": "Dribbble",
+//    "subtitle": "@virtuonic | Hub to the Shots of my 😎 apps ",
+//    "image": dribbble,
+//    "link": "https://dribbble.com/virtuonic"
+//},
 {
     "title": "Telegram",
     "subtitle": "@virtuonic | Chat with me instantly, Don't hesitate! ",
