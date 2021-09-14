@@ -4,7 +4,8 @@ import instagram from '../assets/instagram.png'
 import youtube from '../assets/images (3).jpeg'
 //import dribbble from '../assets/dribbble.png'
 //import github from '../assets/github.png'
-import telegram from '../assets/IMG_20201124_104554.png'
+//import telegram from '../assets/IMG_20201124_104554.png'
+import discord from '../assets/dipscord.png'
 
 const items = [{
     "title": "Website",
@@ -44,10 +45,10 @@ const items = [{
 //    "link": "https://dribbble.com/virtuonic"
 //},
 {
-    "title": "Telegram",
-    "subtitle": "@virtuonic | Chat with me instantly, Don't hesitate! ",
-    "image": telegram,
-    "link": "https://telegram.me/virtuonic"
+    "title": "Discord",
+    "subtitle": "@Sharkie#6969 | Feel free to add me!",
+    "image": discord,
+    "link": "https://discord.com/users/85809275888209920"
 }]
 
 export default items
