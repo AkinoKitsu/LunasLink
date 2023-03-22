@@ -32,7 +32,7 @@ const items = [{
     "subtitle": "BasedShark | Really garbage YT vids and bad gaming clips.",
     "image": youtube,
     "link": "https://www.youtube.com/channel/UCuKAOU_gRsTfLXYE7td5zlg"
-}]
+},
 {
    "title": "GitHub",
    "subtitle": "@Sharkiiie | It's mostly QBCore forks...",
@@ -50,7 +50,7 @@ const items = [{
    "subtitle": "Check out my FiveM scripts!",
    "image": tebex,
    "link": "https://lunafox.tebex.io/"
-},
+}]
 
 
 export default items
