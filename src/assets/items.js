@@ -7,7 +7,7 @@ import github from '../assets/github.png'
 //import telegram from '../assets/IMG_20201124_104554.png'
 import discord from '../assets/dipscord.png'
 import kofi from '../assets/kofi.png'
-import tebex from '../assets/tebex.png
+import tebex from '../assets/tebex.png'
 
 const items = [{
     "title": "Discord",
