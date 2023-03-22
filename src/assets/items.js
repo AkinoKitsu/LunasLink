@@ -31,24 +31,24 @@ const items = [{
     "image": youtube,
     "link": "https://www.youtube.com/channel/UCuKAOU_gRsTfLXYE7td5zlg"
 }]
-//{
-//    "title": "GitHub",
-//    "subtitle": "@devgossips | 🏠 of my open-source projects",
-//    "image": github,
-//    "link": "https://github.com/devgossips"
-//},
-//{
-//    "title": "Apps",
-//    "subtitle": "Hub of my awesome🔥 Apps",
-//    "image": appstore,
-//    "link": "#"
-//},
-//{
-//    "title": "Dribbble",
-//    "subtitle": "@virtuonic | Hub to the Shots of my 😎 apps ",
-//    "image": dribbble,
-//    "link": "https://dribbble.com/virtuonic"
-//},
+{
+   "title": "GitHub",
+   "subtitle": "@Sharkiiie | It's mostly QBCore forks...",
+   "image": github,
+   "link": "https://github.com/sharkiiie"
+},
+{
+   "title": "Ko-Fi",
+   "subtitle": "Buy me some brown!",
+   "image": kofi,
+   "link": "https://ko-fi.com/lunafox69"
+},
+{
+   "title": "Tebex",
+   "subtitle": "Check out my FiveM scripts!",
+   "image": tebex,
+   "link": "https://lunafox.tebex.io/"
+},
 
 
 export default items
