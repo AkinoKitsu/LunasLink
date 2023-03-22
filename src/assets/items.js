@@ -21,12 +21,12 @@ const items = [{
     "image": instagram,
     "link": "https://instagram.com/forearms_international"
 },
-{
-    "title": "Website",
-    "subtitle": "I'll make an updated webisite soon™",
-    "image": website,
-    "link": "#"
-},
+// {
+//     "title": "Website",
+//     "subtitle": "I'll make an updated webisite soon™",
+//     "image": website,
+//     "link": "#"
+// },
 {
     "title": "YouTube",
     "subtitle": "BasedShark | Really garbage YT vids and bad gaming clips.",
