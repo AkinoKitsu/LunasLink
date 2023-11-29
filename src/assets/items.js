@@ -11,7 +11,7 @@ import tebex from '../assets/tebex.png'
 
 const items = [{
     "title": "Discord",
-    "subtitle": "@Sharkie#6969 | Feel free to add me! | (Tap to open my profile)",
+    "subtitle": "akino | Feel free to add me! | (Tap to open my profile)",
     "image": discord,
     "link": "https://discord.com/users/85809275888209920"
 },
