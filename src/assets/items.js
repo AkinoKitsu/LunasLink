@@ -11,7 +11,7 @@ import tebex from '../assets/tebex.png'
 
 const items = [{
     "title": "Discord",
-    "subtitle": "akino | Feel free to add me! | (Tap to open my profile)",
+    "subtitle": "akino | Feel free to add me!",
     "image": discord,
     "link": "https://discord.com/users/85809275888209920"
 },
@@ -35,9 +35,9 @@ const items = [{
 },
 {
    "title": "GitHub",
-   "subtitle": "@Sharkiiie | It's mostly QBCore forks...",
+   "subtitle": "@AkinoKitsu | It's mostly FiveM stuff...",
    "image": github,
-   "link": "https://github.com/sharkiiie"
+   "link": "https://github.com/AkinoKitsu"
 },
 {
    "title": "Ko-Fi",
