@@ -8,19 +8,20 @@ import './css/skeleton.css'
 import './css/normalize.css'
 
 function App() {
-    return ( 
-        <div className = "App" >
+    return (
+        <div className="App" >
             <Header></Header>
-            <div className = "container row">
+            <div className="container row">
                 {
                     items.map((item, i) => {
-                        return(
+                        return (
                             <Card
-                            i={i}
-                            title={item.title}
-                            subtitle={item.subtitle}
-                            link={item.link}
-                            cover={item.image}>
+                                key={item.title + i}
+                                i={i}
+                                title={item.title}
+                                subtitle={item.subtitle}
+                                link={item.link}
+                                cover={item.image}>
                             </Card>
                         )
                     })
