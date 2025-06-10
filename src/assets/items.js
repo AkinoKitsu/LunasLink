@@ -9,48 +9,50 @@ import discord from '../assets/dipscord.png'
 import kofi from '../assets/kofi.png'
 import tebex from '../assets/tebex.png'
 
-const items = [{
-    "title": "Discord",
-    "subtitle": "akino | Feel free to add me!",
-    "image": discord,
-    "link": "https://discord.com/users/85809275888209920"
-},
-{
-    "title": "Instagram",
-    "subtitle": "@forearms_international | Forearms. All day, every day.",
-    "image": instagram,
-    "link": "https://instagram.com/forearms_international"
-},
-// {
-//     "title": "Website",
-//     "subtitle": "I'll make an updated webisite soon™",
-//     "image": website,
-//     "link": "#"
-// },
-{
-    "title": "YouTube",
-    "subtitle": "BasedShark | Really garbage YT vids and bad gaming clips.",
-    "image": youtube,
-    "link": "https://www.youtube.com/channel/UCuKAOU_gRsTfLXYE7td5zlg"
-},
-{
-   "title": "GitHub",
-   "subtitle": "@AkinoKitsu | It's mostly FiveM stuff...",
-   "image": github,
-   "link": "https://github.com/AkinoKitsu"
-},
-{
-   "title": "Ko-Fi",
-   "subtitle": "Buy me some brown!",
-   "image": kofi,
-   "link": "https://ko-fi.com/lunafox69"
-},
-{
-   "title": "Tebex",
-   "subtitle": "Check out my FiveM scripts!",
-   "image": tebex,
-   "link": "https://lunafox.tebex.io/"
-}]
+const items = [
+    {
+        "title": "GitHub",
+        "subtitle": "@AkinoKitsu | It's mostly FiveM stuff...",
+        "image": github,
+        "link": "https://github.com/AkinoKitsu"
+    },
+    {
+        "title": "Tebex",
+        "subtitle": "Check out my FiveM scripts!",
+        "image": tebex,
+        "link": "https://kitsunedev.tebex.io"
+    },
+    {
+        "title": "Ko-Fi",
+        "subtitle": "Buy me some brown!",
+        "image": kofi,
+        "link": "https://ko-fi.com/lunafox69"
+    },
+    {
+        "title": "Discord",
+        "subtitle": "akino | Feel free to add me!",
+        "image": discord,
+        "link": "https://discord.com/users/85809275888209920"
+    },
+    {
+        "title": "Instagram",
+        "subtitle": "@forearms_international | Forearms. All day, every day.",
+        "image": instagram,
+        "link": "https://instagram.com/forearms_international"
+    },
+    // {
+    //     "title": "Website",
+    //     "subtitle": "I'll make an updated webisite soon™",
+    //     "image": website,
+    //     "link": "#"
+    // },
+    {
+        "title": "YouTube",
+        "subtitle": "BasedShark | Really garbage YT vids and bad gaming clips.",
+        "image": youtube,
+        "link": "https://www.youtube.com/channel/UCuKAOU_gRsTfLXYE7td5zlg"
+    },
+]
 
 
 export default items
